@@ -12,11 +12,8 @@
                 Reviews
             </h1>
             <!-- Start coding here -->
-            <div
-                class="bg-white dark:bg-gray-800 relative shadow-md sm:rounded-lg overflow-hidden mt-3"
-            >
-                <SearchComponent />
-            </div>
+            <SearchComponent />
+            
         </div>
     </section>
 </template>

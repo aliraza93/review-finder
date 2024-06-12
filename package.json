@@ -15,8 +15,9 @@
     },
     "dependencies": {
         "@inertiajs/vue3": "^1.1.0",
-        "flowbite": "^2.3.0",
         "@vitejs/plugin-vue": "^5.0.5",
+        "flowbite": "^2.3.0",
+        "puppeteer": "^22.11.0",
         "vue": "^3.4.27"
     }
 }
